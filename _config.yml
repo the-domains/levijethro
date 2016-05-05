@@ -1,0 +1,28 @@
+name: LeviJethro
+favicon: null
+layout_spectrum: 0.7290685705374926
+typography_spectrum: 0.19360626116394997
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8719639128539711
+  lightness: 0.5551910132635385
+  saturation: 0.059221549425274134
+  rhythmicContrast: 0.877811458427459
+purpose: []
