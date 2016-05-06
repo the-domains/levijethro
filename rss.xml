@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[LeviJethro]]></title>
         <description><![CDATA[LeviJethro]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/levijethro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 23:47:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 May 2016 00:01:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/levijethro/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[My Little Boy]]></title>
             <description><![CDATA[<article><h1>My Little Boy</h1><p>No amount of gold could ever compare to the gift of love that my son shares.</p></article>]]></description>
-            <link>undefinedmy-little-boy/index.html</link>
+            <link>https://thegrid.ai/levijethro/my-little-boy/index.html</link>
             <guid isPermaLink="false">d4922e55-8781-4429-87da-30d25d0a3dcf</guid>
-            <pubDate>Thu, 05 May 2016 23:47:57 GMT</pubDate>
+            <pubDate>Fri, 06 May 2016 00:01:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
