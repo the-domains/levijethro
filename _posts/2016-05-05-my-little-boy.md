@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: No amount of gold could ever compare to the gift of love that my son shares.
-datePublished: '2016-05-05T23:47:57.363Z'
-dateModified: '2016-05-05T23:47:37.071Z'
+datePublished: '2016-05-06T00:01:13.095Z'
+dateModified: '2016-05-05T23:48:05.606Z'
 title: My Little Boy
 author: []
+sourcePath: _posts/2016-05-05-my-little-boy.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-05-my-little-boy.md
 url: my-little-boy/index.html
 _type: Article
 
